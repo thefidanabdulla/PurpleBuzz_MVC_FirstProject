@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/MVCProject_PurpleBuzz.bundle.scp.css"
     },
     {
+      "Id": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/css/bootstrap.css",
       "PackagePath": "staticwebassets/assets/css/bootstrap.css"
     },

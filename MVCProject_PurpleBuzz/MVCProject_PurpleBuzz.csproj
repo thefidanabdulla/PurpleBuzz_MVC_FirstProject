@@ -15,11 +15,15 @@
     <Folder Include="Views\Contact\" />
     <Folder Include="Views\Pricing\" />
     <Folder Include="Views\Work\" />
+    <Folder Include="ViewModel\" />
+    <Folder Include="ViewModel\Home\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\About\" />
     <None Remove="Views\Contact\" />
     <None Remove="Views\Pricing\" />
     <None Remove="Views\Work\" />
+    <None Remove="ViewModel\" />
+    <None Remove="ViewModel\Home\" />
   </ItemGroup>
 </Project>

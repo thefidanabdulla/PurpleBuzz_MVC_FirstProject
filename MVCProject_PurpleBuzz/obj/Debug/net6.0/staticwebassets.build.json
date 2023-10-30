@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mg68jNUZUxjiPKphWbWVVmvyqQNM6DNs6tqqOs3YM/Y=",
+  "Hash": "DZyJRy192nerl0u/FvmqdxgAMk39IDx6AiQg84VsXCU=",
   "Source": "MVCProject_PurpleBuzz",
   "BasePath": "_content/MVCProject_PurpleBuzz",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/obj/Debug/net6.0/scopedcss/projectbundle/MVCProject_PurpleBuzz.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/.DS_Store",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/css/bootstrap.css",
