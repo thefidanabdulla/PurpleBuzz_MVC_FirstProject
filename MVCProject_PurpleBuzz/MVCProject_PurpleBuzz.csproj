@@ -17,6 +17,7 @@
     <Folder Include="Views\Work\" />
     <Folder Include="ViewModel\" />
     <Folder Include="ViewModel\Home\" />
+    <Folder Include="DAL\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\About\" />
@@ -25,5 +26,10 @@
     <None Remove="Views\Work\" />
     <None Remove="ViewModel\" />
     <None Remove="ViewModel\Home\" />
+    <None Remove="DAL\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.24" />
   </ItemGroup>
 </Project>
