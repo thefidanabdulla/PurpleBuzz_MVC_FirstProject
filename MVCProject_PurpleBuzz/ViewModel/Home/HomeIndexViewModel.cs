@@ -6,6 +6,7 @@ namespace MVCProject_PurpleBuzz.ViewModel.Home
 	public class HomeIndexViewModel
 	{
 		public List<ProjectComponent> ProjectComponents { get; set; }
+		public List<ProjectComponent> HomeRecentWorkComponent { get; set; }
 
 		public HomeIndexViewModel()
 		{

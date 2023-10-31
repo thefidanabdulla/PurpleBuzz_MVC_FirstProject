@@ -22,9 +22,21 @@ public class HomeController : Controller
             new ProjectComponent{Id=8, Title="Branding Design", Description="Branding Description", ImagePath="/assets/img/services-08.jpg"},
         };
 
+        var homeRecentWorkComponent = new List<ProjectComponent>
+        {
+            new ProjectComponent{Id=1, Title="Social Media", Description="Social Media Description", ImagePath="/assets/img/recent-work-01.jpg"},
+            new ProjectComponent{Id=2, Title="Web Marketing", Description="Web Marketing Description", ImagePath="/assets/img/recent-work-02.jpg"},
+            new ProjectComponent{Id=3, Title="R & D", Description="R & D Description", ImagePath="/assets/img/recent-work-03.jpg"},
+            new ProjectComponent{Id=4, Title="Public Relation", Description="Public Relation Description", ImagePath="/assets/img/recent-work-04.jpg"},
+            new ProjectComponent{Id=5, Title="Branding", Description="Branding Description", ImagePath="/assets/img/recent-work-05.jpg"},
+            new ProjectComponent{Id=6, Title="Creative Design", Description="Creative Design Description", ImagePath="/assets/img/recent-work-06.jpg"},
+        };
+
         var model = new HomeIndexViewModel
         {
-            ProjectComponents = projectComponents
+            ProjectComponents = projectComponents,
+            HomeRecentWorkComponent = homeRecentWorkComponent
+            
         };
 
         return View(model);
