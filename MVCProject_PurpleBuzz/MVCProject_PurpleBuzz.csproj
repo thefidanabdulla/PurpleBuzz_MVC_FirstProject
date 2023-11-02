@@ -15,7 +15,6 @@
     <Folder Include="Views\Contact\" />
     <Folder Include="Views\Pricing\" />
     <Folder Include="Views\Work\" />
-    <Folder Include="ViewModel\" />
     <Folder Include="ViewModel\Home\" />
     <Folder Include="DAL\" />
   </ItemGroup>
