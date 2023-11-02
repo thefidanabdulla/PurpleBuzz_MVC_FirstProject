@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/MVCProject_PurpleBuzz.props" />
+  <Import Project="..\build\MVCProject_PurpleBuzz.props" />
 </Project>

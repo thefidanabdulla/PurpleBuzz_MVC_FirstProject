@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DZyJRy192nerl0u/FvmqdxgAMk39IDx6AiQg84VsXCU=",
+  "Hash": "a9rjFHG+KAkcNJ2WS2Xvup04WM4NSlNONXYjJVc8PO8=",
   "Source": "MVCProject_PurpleBuzz",
   "BasePath": "_content/MVCProject_PurpleBuzz",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "MVCProject_PurpleBuzz/wwwroot",
+      "Name": "MVCProject_PurpleBuzz\\wwwroot",
       "Source": "MVCProject_PurpleBuzz",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/obj/Debug/net6.0/scopedcss/bundle/MVCProject_PurpleBuzz.styles.css",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCProject_PurpleBuzz.styles.css",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "MVCProject_PurpleBuzz.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/obj/Debug/net6.0/scopedcss/bundle/MVCProject_PurpleBuzz.styles.css"
+      "OriginalItemSpec": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCProject_PurpleBuzz.styles.css"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/obj/Debug/net6.0/scopedcss/projectbundle/MVCProject_PurpleBuzz.bundle.scp.css",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCProject_PurpleBuzz.bundle.scp.css",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "MVCProject_PurpleBuzz.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/obj/Debug/net6.0/scopedcss/projectbundle/MVCProject_PurpleBuzz.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCProject_PurpleBuzz.bundle.scp.css"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/.DS_Store",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\.DS_Store",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/.DS_Store"
+      "OriginalItemSpec": "wwwroot\\.DS_Store"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/css/bootstrap.css",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\css\\bootstrap.css",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/css/bootstrap.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.css"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/css/bootstrap.min.css",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/css/boxicon.min.css",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\css\\boxicon.min.css",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/css/boxicon.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/css/boxicon.min.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\boxicon.min.css"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/css/custom.css",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\css\\custom.css",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/css/custom.css",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/css/custom.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\custom.css"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/css/templatemo.css",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\css\\templatemo.css",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/css/templatemo.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/css/templatemo.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo.css"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/fonts/boxicons.eot",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\fonts\\boxicons.eot",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/fonts/boxicons.eot"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/fonts/boxicons.svg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\fonts\\boxicons.svg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/fonts/boxicons.svg"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/fonts/boxicons.ttf",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\fonts\\boxicons.ttf",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/fonts/boxicons.ttf"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/fonts/boxicons.woff",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\fonts\\boxicons.woff",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/fonts/boxicons.woff"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/fonts/boxicons.woff2",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\fonts\\boxicons.woff2",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/fonts/boxicons.woff2"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/apple-icon.png",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\apple-icon.png",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/apple-icon.png",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/apple-icon.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\apple-icon.png"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/banner-bg-01.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\banner-bg-01.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/banner-bg-01.jpg",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/banner-bg-01.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-01.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/banner-bg-02.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\banner-bg-02.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/banner-bg-02.jpg",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/banner-bg-02.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-02.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/banner-bg-03.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\banner-bg-03.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/banner-bg-03.jpg",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/banner-bg-03.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-03.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/banner-img-01.svg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\banner-img-01.svg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/banner-img-01.svg",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/banner-img-01.svg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\banner-img-01.svg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/banner-img-02.svg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\banner-img-02.svg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/banner-img-02.svg",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/banner-img-02.svg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\banner-img-02.svg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/favicon.ico",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\favicon.ico",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/favicon.ico",
       "AssetKind": "All",
@@ -354,30 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.ico"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/feature-work-1-large.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\feature-work-1.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/feature-work-1-large.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/feature-work-1-large.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/feature-work-1.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/feature-work-1.jpg",
       "AssetKind": "All",
@@ -388,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/feature-work-1.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-1.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/feature-work-2-large.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/feature-work-2-large.jpg",
+      "RelativePath": "assets/img/feature-work-1-large.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/feature-work-2-large.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-1-large.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/feature-work-2.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\feature-work-2.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/feature-work-2.jpg",
       "AssetKind": "All",
@@ -422,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/feature-work-2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-2.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/feature-work-3-large.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/feature-work-3-large.jpg",
+      "RelativePath": "assets/img/feature-work-2-large.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/feature-work-3-large.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-2-large.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/feature-work-3.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\feature-work-3.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/feature-work-3.jpg",
       "AssetKind": "All",
@@ -456,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/feature-work-3.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-3.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/feature-work-4-large.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/feature-work-4-large.jpg",
+      "RelativePath": "assets/img/feature-work-3-large.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/feature-work-4-large.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-3-large.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/feature-work-4.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\feature-work-4.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/feature-work-4.jpg",
       "AssetKind": "All",
@@ -490,13 +473,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/feature-work-4.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-4.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/our-work-01.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/feature-work-4-large.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-4-large.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\our-work-01.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/our-work-01.jpg",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/our-work-01.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-01.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/our-work-02.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\our-work-02.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/our-work-02.jpg",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/our-work-02.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-02.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/our-work-03.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\our-work-03.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/our-work-03.jpg",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/our-work-03.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-03.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/our-work-04.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\our-work-04.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/our-work-04.jpg",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/our-work-04.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-04.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/our-work-05.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\our-work-05.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/our-work-05.jpg",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/our-work-05.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-05.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/our-work-06.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\our-work-06.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/our-work-06.jpg",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/our-work-06.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-06.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/pricing.svg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\pricing.svg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/pricing.svg",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/pricing.svg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\pricing.svg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/recent-work-01.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\recent-work-01.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/recent-work-01.jpg",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/recent-work-01.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-01.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/recent-work-02.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\recent-work-02.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/recent-work-02.jpg",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/recent-work-02.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-02.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/recent-work-03.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\recent-work-03.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/recent-work-03.jpg",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/recent-work-03.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-03.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/recent-work-04.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\recent-work-04.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/recent-work-04.jpg",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/recent-work-04.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-04.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/recent-work-05.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\recent-work-05.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/recent-work-05.jpg",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/recent-work-05.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-05.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/recent-work-06.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\recent-work-06.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/recent-work-06.jpg",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/recent-work-06.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-06.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/related-post-01.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\related-post-01.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/related-post-01.jpg",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/related-post-01.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-01.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/related-post-02.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\related-post-02.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/related-post-02.jpg",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/related-post-02.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-02.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/related-post-03.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\related-post-03.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/related-post-03.jpg",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/related-post-03.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-03.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/services-01.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\services-01.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/services-01.jpg",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/services-01.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\services-01.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/services-02.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\services-02.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/services-02.jpg",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/services-02.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\services-02.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/services-03.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\services-03.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/services-03.jpg",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/services-03.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\services-03.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/services-04.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\services-04.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/services-04.jpg",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/services-04.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\services-04.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/services-05.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\services-05.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/services-05.jpg",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/services-05.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\services-05.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/services-06.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\services-06.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/services-06.jpg",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/services-06.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\services-06.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/services-07.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\services-07.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/services-07.jpg",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/services-07.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\services-07.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/services-08.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\services-08.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/services-08.jpg",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/services-08.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\services-08.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/team-01.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\team-01.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/team-01.jpg",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/team-01.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-01.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/team-02.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\team-02.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/team-02.jpg",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/team-02.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-02.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/team-03.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\team-03.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/team-03.jpg",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/team-03.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-03.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/team-04.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\team-04.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/team-04.jpg",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/team-04.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-04.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/team-05.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\team-05.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/team-05.jpg",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/team-05.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-05.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/team-06.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\team-06.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/team-06.jpg",
       "AssetKind": "All",
@@ -1000,217 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/team-06.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-06.jpg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-01-small.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work.svg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-01-small.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-01-small.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-01.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-01.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-01.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-02-small.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-02-small.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-02-small.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-02.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-02.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-02.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-03-small.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-03-small.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-03-small.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-03.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-03.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-03.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-04-small.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-04-small.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-04-small.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-04.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-04.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-04.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-05-small.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-05-small.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-05-small.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-05.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-05.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-05.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-06-small.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-06-small.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-06-small.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work-slide-06.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/work-slide-06.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work-slide-06.jpg"
-    },
-    {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/img/work.svg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/img/work.svg",
       "AssetKind": "All",
@@ -1221,13 +1017,217 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/work.svg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work.svg"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/js/bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-01.jpg",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-01.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-01-small.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-01-small.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-02.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-02-small.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-02-small.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-03.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-03-small.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-03-small.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-04.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-04.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-04-small.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-04-small.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-05.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-05.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-05.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-05-small.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-05-small.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-06.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-06.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-06.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
+      "BasePath": "_content/MVCProject_PurpleBuzz",
+      "RelativePath": "assets/img/work-slide-06-small.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-06-small.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "SourceId": "MVCProject_PurpleBuzz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1238,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/js/custom.js",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -1255,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/js/custom.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/js/fslightbox.js",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\js\\fslightbox.js",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/js/fslightbox.js",
       "AssetKind": "All",
@@ -1272,13 +1272,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/js/fslightbox.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\fslightbox.js"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/js/isotope.pkgd.js",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\js\\isotope.pkgd.js",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/js/isotope.pkgd.js",
       "AssetKind": "All",
@@ -1289,13 +1289,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/js/isotope.pkgd.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.pkgd.js"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/js/jquery.min.js",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/js/jquery.min.js",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/js/jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/js/templatemo.js",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\js\\templatemo.js",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/js/templatemo.js",
       "AssetKind": "All",
@@ -1323,13 +1323,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/js/templatemo.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\templatemo.js"
     },
     {
-      "Identity": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/assets/js/templatemo.min.js",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\js\\templatemo.min.js",
       "SourceId": "MVCProject_PurpleBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macbookpro2015/Projects/MVCProject_PurpleBuzz/MVCProject_PurpleBuzz/wwwroot/",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
       "BasePath": "_content/MVCProject_PurpleBuzz",
       "RelativePath": "assets/js/templatemo.min.js",
       "AssetKind": "All",
@@ -1340,7 +1340,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/js/templatemo.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\templatemo.min.js"
     }
   ]
 }
