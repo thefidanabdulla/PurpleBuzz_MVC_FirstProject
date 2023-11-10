@@ -103,6 +103,31 @@ namespace MVCProject_PurpleBuzz.Migrations
                     b.ToTable("ProjectComponents");
                 });
 
+            modelBuilder.Entity("MVCProject_PurpleBuzz.Models.RecentWork", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Desc")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImagePath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("RecentWorks");
+                });
+
             modelBuilder.Entity("CategoryComponent", b =>
                 {
                     b.HasOne("MVCProject_PurpleBuzz.Models.Category", null)
