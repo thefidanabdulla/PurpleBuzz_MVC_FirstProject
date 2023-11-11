@@ -1,0 +1,33 @@
+﻿@using MVCProject_PurpleBuzz.Models;
+@model RecentWork;
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Default form</h4>
+                        <p class="card-description">
+                            Delete recent work
+                        </p>
+                        <span>Title:</span> <span>@Model.Title</span>
+                        <br />
+                        <br />
+                        <span>Description:</span> <span>@Model.Desc</span>
+                        <br />
+                        <span>ImagePath:</span> <span>@Model.ImagePath</span>
+                        <br />
+                        <br />
+
+
+                        <form method="post" asp-action="deletecomponent" asp-controller="recentwork" asp-area="admin" asp-route-id="@Model.Id" class="forms-sample">
+                            <button type="submit" class="btn btn-danger me-2">Delete</button>
+                            <button class="btn btn-light">Cancel</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

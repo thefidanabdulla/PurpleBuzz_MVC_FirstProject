@@ -1,5 +1,5 @@
-﻿@using MVCProject_PurpleBuzz.Models;
-@model RecentWork; 
+﻿@using MVCProject_PurpleBuzz.ViewModel.Work;
+@model WorkCreateViewModel;
 
 <div class="main-panel">
     <div class="content-wrapper">
@@ -9,7 +9,7 @@
                     <div class="card-body">
                         <h4 class="card-title">Default form</h4>
                         <p class="card-description">
-                            Create recent work
+                            Create Component
                         </p>
                         <form method="post" asp-action="create" asp-controller="recentwork" asp-area="admin" class="forms-sample">
                             <div class="form-group">
@@ -26,6 +26,11 @@
                                 <label asp-for="ImagePath">Image path</label>
                                 <input class="form-control" asp-for="ImagePath">
                                 <span class="text-danger" asp-validation-for="ImagePath"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="CategoryIds">Categories</label>
+                                <select asp-for="@Model.CategoryIds" asp-items="@Model.Items" class="form-select" multiple>
+                                </select>
                             </div>
                             <button type="submit" class="btn btn-primary me-2">Submit</button>
                             <button class="btn btn-light">Cancel</button>

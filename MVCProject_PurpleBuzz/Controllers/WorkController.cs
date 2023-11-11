@@ -21,13 +21,11 @@ namespace MVCProject_PurpleBuzz.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var components = await _dbContext.Components.ToListAsync();
-            var categories = await _dbContext.Categories.Include(x => x.Components).ToListAsync();
+            var categories = await _dbContext.Categories.Include(x => x.CategoryComponents).ThenInclude(cc => cc.Component).ToListAsync();
 
             var vm = new WorkIndexViewModel
             {
-                categories = categories,
-                components = components
+                categories = categories
             };
             return View(vm);
         }

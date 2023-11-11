@@ -70,15 +70,15 @@
             }
             else
             {
-                @foreach (var compo in category.Components)
+                @foreach (var compo in category.CategoryComponents)
                 {
                     <a href="work-single.html" class="col-sm-6 col-lg-4 text-decoration-none project @category.Title.Replace(" ", "-").ToLower()">
                         <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5">
-                            <img class="card-img-top" src="@compo.ImagePath" alt="...">
+                            <img class="card-img-top" src="@compo.Component.ImagePath" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title light-300 text-dark">@compo.Title</h5>
+                                <h5 class="card-title light-300 text-dark">@compo.Component.Title</h5>
                                 <p class="card-text light-300 text-dark">
-                                    @compo.Desc
+                                    @compo.Component.Desc
                                 </p>
                                 <span class="text-decoration-none text-primary light-300">
                                     Read more <i class='bx bxs-hand-right ms-1'></i>

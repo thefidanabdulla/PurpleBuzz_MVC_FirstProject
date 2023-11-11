@@ -7,6 +7,7 @@
         public string Desc { get; set; }
         public string ImagePath { get; set; }
 
-        public List<Category> Categories { get; set; }
+        public List<CategoryComponent> CategoryComponents { get; set; } = new List<CategoryComponent>();
+
     }
 }
