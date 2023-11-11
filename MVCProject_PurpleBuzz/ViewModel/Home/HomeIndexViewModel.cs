@@ -7,7 +7,8 @@ namespace MVCProject_PurpleBuzz.ViewModel.Home
 	{
 		public List<ProjectComponent> ProjectComponents { get; set; }
 		public List<RecentWork> HomeRecentWorkComponent { get; set; }
+        public List<RecentWork> RecentWorks { get; set; }
 
-	}
+    }
 }
 

@@ -17,29 +17,32 @@ public class HomeController : Controller
     }
     public async Task<IActionResult> Index()
     {
+        var recentWorkComponents = await _appDbContext.RecentWorks.OrderByDescending(rcw => rcw.Id).Take(3).ToListAsync();
+
         var projectComponents = await _appDbContext.ProjectComponents.ToListAsync();
 
         var homeRecentWorkComponent = await _appDbContext.RecentWorks.ToListAsync();
-        //var homeRecentWorkComponent = new List<ProjectComponent>
-        //{
-        //    new ProjectComponent{Id=1, Title="Social Media", Description="Social Media Description", ImagePath="/assets/img/recent-work-01.jpg"},
-        //    new ProjectComponent{Id=2, Title="Web Marketing", Description="Web Marketing Description", ImagePath="/assets/img/recent-work-02.jpg"},
-        //    new ProjectComponent{Id=3, Title="R & D", Description="R & D Description", ImagePath="/assets/img/recent-work-03.jpg"},
-        //    new ProjectComponent{Id=4, Title="Public Relation", Description="Public Relation Description", ImagePath="/assets/img/recent-work-04.jpg"},
-        //    new ProjectComponent{Id=5, Title="Branding", Description="Branding Description", ImagePath="/assets/img/recent-work-05.jpg"},
-        //    new ProjectComponent{Id=6, Title="Creative Design", Description="Creative Design Description", ImagePath="/assets/img/recent-work-06.jpg"},
-        //};
 
         var model = new HomeIndexViewModel
         {
             ProjectComponents = projectComponents,
-            HomeRecentWorkComponent = homeRecentWorkComponent
+            HomeRecentWorkComponent = homeRecentWorkComponent,
+            RecentWorks = recentWorkComponents
             
         };
 
         return View(model);
     }
 
-    
+    public async Task<IActionResult> Loadmore(int skiprow)
+    {
+        var recentWorkComponents = await _appDbContext.RecentWorks.OrderByDescending(rcw => rcw.Id).Skip(3 * skiprow).Take(3).ToListAsync();
+
+
+        return PartialView("_RecentWorkPartialView", recentWorkComponents);
+    }
+
+
+
 }
 
