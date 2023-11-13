@@ -1,10 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MVCProject_PurpleBuzz.DAL;
+using MVCProject_PurpleBuzz.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddSingleton<IFileService, FileService>();
 
 var connectionString = builder.Configuration.GetConnectionString("ConString");
 builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer(connectionString));
