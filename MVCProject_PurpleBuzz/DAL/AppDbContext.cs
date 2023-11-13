@@ -17,7 +17,9 @@ namespace MVCProject_PurpleBuzz.DAL
 		public DbSet<RecentWork> RecentWorks{ get; set; }
 		public DbSet<CategoryComponent> CategoryComponents{ get; set; }
 		public DbSet<ObjectiveComponent> ObjectiveComponents { get; set; }
-
+		public DbSet<TeamMember> TeamMembers{ get; set; }
+		
+		
 
 
 	}
