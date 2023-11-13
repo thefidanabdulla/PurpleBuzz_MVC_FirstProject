@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using MVCProject_PurpleBuzz.DAL;
 using MVCProject_PurpleBuzz.Helpers;
 using MVCProject_PurpleBuzz.Models;
+using MVCProject_PurpleBuzz.ViewModel.TeamMembers;
 using System.Net.Mime;
 
 namespace MVCProject_PurpleBuzz.Areas.Admin.Controllers
@@ -83,6 +84,59 @@ namespace MVCProject_PurpleBuzz.Areas.Admin.Controllers
             await _appDbContext.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
 
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Update(int id)
+        {
+            var dbmodel = await _appDbContext.TeamMembers.FindAsync(id);
+            if (dbmodel == null) return NotFound();
+
+            var model = new TeamMemberUpdateViewModel
+            {
+                Name = dbmodel.Name,
+                Position = dbmodel.Position,
+                PhotoName = dbmodel.PhotoName,
+            };
+            return View(model);
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Update(int id, TeamMemberUpdateViewModel model)
+        {
+            if (!ModelState.IsValid) return View(model);
+
+
+            var dbModel = await _appDbContext.TeamMembers.FindAsync(id);
+
+            if(dbModel == null) return NotFound();
+
+            dbModel.Name = model.Name;
+            dbModel.Position = model.Position;
+
+            if(model.Photo != null)
+            {
+                if (!fileService.IsImage(model.Photo))
+                {
+                    ModelState.AddModelError("Photo", $"{model.Photo.FileName} named file is not image");
+                    return View(model);
+                }
+                else
+                {
+                    if (!fileService.SizeCheck(model.Photo))
+                    {
+                        ModelState.AddModelError("Photo", $"{model.Photo.FileName} named file size must be lower than 300 kb");
+                        return View(model) ;
+                    }
+
+                    fileService.Delete(webHostEnvironment.WebRootPath, dbModel.PhotoName);
+                    dbModel.PhotoName = await fileService.UploadAsync(webHostEnvironment.WebRootPath, model.Photo);
+
+                }
+            }
+            await _appDbContext.SaveChangesAsync();
+            return RedirectToAction("index");
         }
     }
 

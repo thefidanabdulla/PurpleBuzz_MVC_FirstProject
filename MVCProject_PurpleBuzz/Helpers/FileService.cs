@@ -37,9 +37,9 @@ namespace MVCProject_PurpleBuzz.Helpers
         {
             if(file.Length / 1024 > 300)
             {
-                return true;
+                return false;
             }
-            return false;
+            return true;
         }
     }
 }

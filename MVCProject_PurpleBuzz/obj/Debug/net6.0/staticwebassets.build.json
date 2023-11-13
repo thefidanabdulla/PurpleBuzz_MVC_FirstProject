@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rvUF3Tr3fqTR/xEQ/JAkAmf6wJaYutt0UVjvlyZev5E=",
+  "Hash": "c8dqfG/4H6XUO/efMuSdPwTtON1UFTGbqISsR1P1fYg=",
   "Source": "MVCProject_PurpleBuzz",
   "BasePath": "_content/MVCProject_PurpleBuzz",
   "Mode": "Default",
@@ -1749,23 +1749,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.woff2"
-    },
-    {
-      "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\3424615b-4d5f-4b50-89d4-5487bb7744d5_team-01.jpg",
-      "SourceId": "MVCProject_PurpleBuzz",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\",
-      "BasePath": "_content/MVCProject_PurpleBuzz",
-      "RelativePath": "assets/img/3424615b-4d5f-4b50-89d4-5487bb7744d5_team-01.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\3424615b-4d5f-4b50-89d4-5487bb7744d5_team-01.jpg"
     },
     {
       "Identity": "C:\\Users\\LENOVA\\Desktop\\PurpleBuzz_MVC_FirstProject\\MVCProject_PurpleBuzz\\wwwroot\\assets\\img\\apple-icon.png",
